@@ -23,12 +23,17 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:orange" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3738f14-0b46-466a-a9ed-f9d5f14aea4c" name="Default Changelist" comment="" />
+    <list default="true" id="c3738f14-0b46-466a-a9ed-f9d5f14aea4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/service/QueueServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/service/QueueServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +77,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hPCn3uAYnYAxBFP4c2Hj3qiywY" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -115,19 +120,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -157,7 +149,8 @@
       <workItem from="1607153040977" duration="7463000" />
       <workItem from="1607163434994" duration="1444000" />
       <workItem from="1608361510214" duration="2107000" />
-      <workItem from="1608365730794" duration="1711000" />
+      <workItem from="1608365730794" duration="1803000" />
+      <workItem from="1608371390568" duration="749000" />
     </task>
     <servers />
   </component>
@@ -175,7 +168,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="orange" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -232,31 +225,39 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1607163470860" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1608366343549">
-      <screen x="0" y="25" width="1440" height="818" />
+    <state x="590" y="355" key="Github.ShareDialog" timestamp="1608371412491">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608363636821" />
+    <state x="590" y="355" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1608371412491" />
+    <state x="535" y="160" key="Github.UntrackedFilesDialog" timestamp="1608368136695">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="535" y="160" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1608368136695" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1608368145654">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608368145654" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.25.1440.818@0.25.1440.818" timestamp="1608366343549" />
     <state width="946" height="185" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
     <state width="1514" height="262" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1607163357845" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1608366343547">
-      <screen x="0" y="25" width="1440" height="818" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1608368145653">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608363636820" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608368145653" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.25.1440.818@0.25.1440.818" timestamp="1608366343547" />
     <state width="946" height="185" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
     <state width="1514" height="262" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1607163357845" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1608366343547">
-      <screen x="0" y="25" width="1440" height="818" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1608368145652">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608363636820" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608368145652" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.25.1440.818@0.25.1440.818" timestamp="1608366343547" />
     <state width="946" height="185" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
     <state width="1514" height="262" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1607163357844" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1608366343548">
-      <screen x="0" y="25" width="1440" height="818" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1608368145653">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608363636820" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608368145653" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.25.1440.818@0.25.1440.818" timestamp="1608366343548" />
     <state width="946" height="185" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
     <state width="1514" height="262" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1607163357845" />
@@ -312,6 +313,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="582" y="114" key="new project wizard/62.0.1858.1080@62.0.1858.1080" timestamp="1604351147740" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1608371398224">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1608371398224" />
     <state x="535" y="0" key="spring file set editor" timestamp="1601550836210">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
